@@ -1,6 +1,6 @@
 {
   "project": "Crypto-Nation",
   "kill_switch": {
-    "enabled": true
+    "enabled": false
   }
 }
